@@ -1,0 +1,15 @@
+D:\fast\test-Konuhov-Vladislav\reshenie\bin\Debug\net6.0\reshenie.exe
+D:\fast\test-Konuhov-Vladislav\reshenie\bin\Debug\net6.0\reshenie.deps.json
+D:\fast\test-Konuhov-Vladislav\reshenie\bin\Debug\net6.0\reshenie.runtimeconfig.json
+D:\fast\test-Konuhov-Vladislav\reshenie\bin\Debug\net6.0\reshenie.dll
+D:\fast\test-Konuhov-Vladislav\reshenie\bin\Debug\net6.0\reshenie.pdb
+D:\fast\test-Konuhov-Vladislav\reshenie\obj\Debug\net6.0\reshenie.csproj.AssemblyReference.cache
+D:\fast\test-Konuhov-Vladislav\reshenie\obj\Debug\net6.0\reshenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\fast\test-Konuhov-Vladislav\reshenie\obj\Debug\net6.0\reshenie.AssemblyInfoInputs.cache
+D:\fast\test-Konuhov-Vladislav\reshenie\obj\Debug\net6.0\reshenie.AssemblyInfo.cs
+D:\fast\test-Konuhov-Vladislav\reshenie\obj\Debug\net6.0\reshenie.csproj.CoreCompileInputs.cache
+D:\fast\test-Konuhov-Vladislav\reshenie\obj\Debug\net6.0\reshenie.dll
+D:\fast\test-Konuhov-Vladislav\reshenie\obj\Debug\net6.0\refint\reshenie.dll
+D:\fast\test-Konuhov-Vladislav\reshenie\obj\Debug\net6.0\reshenie.pdb
+D:\fast\test-Konuhov-Vladislav\reshenie\obj\Debug\net6.0\reshenie.genruntimeconfig.cache
+D:\fast\test-Konuhov-Vladislav\reshenie\obj\Debug\net6.0\ref\reshenie.dll
